@@ -4,13 +4,13 @@ A multi media player featuring an audio player and a video player that can play 
 
 ## About the Application
 This app features an audio player that uses local assets bundled with the app to play the audio using [audioplayers](https://pub.dev/packages/audioplayers) plugin.
-![Local Audio](/screeshots/1.png)
+![Local Audio](/screenshots/1.png)
 
 Along with audio player, this app also has a video player that uses local assets bundled with the app to play the audio using [video_player](https://pub.dev/packages/video_player) plugin.
-![Local Video](/screeshots/2.png)
+![Local Video](/screenshots/2.png)
 
 App has features a network stream option that plays audio and video from the network stream.
-![Network Stream](/screeshots/3.png)
+![Network Stream](/screenshots/3.png)
 All these features have play/pause functionality and are just a basic implementation.
 
 ##Prerequisites

@@ -13,13 +13,13 @@ App has features a network stream option that plays audio and video from the net
 ![Network Stream](/screenshots/3.png)
 All these features have play/pause functionality and are just a basic implementation.
 
-##Prerequisites
+## Prerequisites
 You must have flutter and android studio configured and installed on your system to run this project on either an emulator or an actual mobile phone.
 
-##Getting Started
+## Getting Started
 To run this project, clone this repository and traverse into your project directory through command line.
 Then execute this command:
 `flutter run -v`
 
-##Future Scope
+## Future Scope
 This project has lots of scopes and room for improvements in the future. The next/prev buttons on audio player can be made functional and lots of media can be used then. The app will have an option to load media from the local device. In the network stream option, we will have the user enter the url for the audio/video which the user wants to play.

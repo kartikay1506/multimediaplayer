@@ -21,5 +21,10 @@ To run this project, clone this repository and traverse into your project direct
 Then execute this command:
 `flutter run -v`
 
+## Few things that I learned from this project:
+1 -> We cannot pause the local assets music, once started it will only stop when finished. Also to keep in mind that local assets are only used as a intro sound or some other in app sound which do not require a play/pause feature.
+
+2 -> If the assets are quite heavy like a video flie then it is preferred to stream it via network to keep the size of the application minimal. 
+
 ## Future Scope
 This project has lots of scopes and room for improvements in the future. The next/prev buttons on audio player can be made functional and lots of media can be used then. The app will have an option to load media from the local device. In the network stream option, we will have the user enter the url for the audio/video which the user wants to play.

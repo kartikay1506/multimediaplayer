@@ -23,6 +23,7 @@ Then execute this command:
 
 ## Few things that I learned from this project:
 1 -> We cannot pause the local assets music, once started it will only stop when finished. Also to keep in mind that local assets are only used as a intro sound or some other in app sound which do not require a play/pause feature.
+
 2 -> If the assets are quite heavy like a video flie then it is preferred to stream it via network to keep the size of the application minimal. 
 
 ## Future Scope
